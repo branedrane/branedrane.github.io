@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (b0a8486, 2022-12-01)"
+   sodipodi:docname="landing.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#25332b"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#1a2121"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.66331437"
+     inkscape:cx="263.07285"
+     inkscape:cy="523.88432"
+     inkscape:window-width="1616"
+     inkscape:window-height="1109"
+     inkscape:window-x="136"
+     inkscape:window-y="103"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:none;stroke:#bcac60;stroke-width:0.578;stroke-linejoin:miter;stroke-opacity:1;stroke-dasharray:none"
+       id="rect357"
+       width="202.05522"
+       height="288.95706"
+       x="3.9723933"
+       y="4.0214586"
+       ry="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.3045px;line-height:1.25;font-family:'Apple Chancery';-inkscape-font-specification:'Apple Chancery';fill:#bcac60;fill-opacity:1;stroke-width:0.35129"
+       x="-132.62852"
+       y="139.34735"
+       id="text495"><tspan
+         sodipodi:role="line"
+         id="tspan493"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.3045px;font-family:'Apple Chancery';-inkscape-font-specification:'Apple Chancery';fill:#bcac60;fill-opacity:1;stroke-width:0.35129"
+         x="-132.62852"
+         y="139.34735">You are cordially invited</tspan></text>
+    <rect
+       style="fill:none;stroke:#bcac60;stroke-width:0.36688;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1834"
+       width="199.24593"
+       height="286.14777"
+       x="5.3770413"
+       y="5.4261069"
+       ry="0" />
+  </g>
+</svg>
